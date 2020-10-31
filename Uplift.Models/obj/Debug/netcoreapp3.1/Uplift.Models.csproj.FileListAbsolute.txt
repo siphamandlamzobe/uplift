@@ -6,3 +6,4 @@ C:\Dev\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.c
 C:\Dev\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
 C:\Dev\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
 C:\Dev\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
+C:\Dev\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache

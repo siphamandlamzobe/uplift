@@ -4,7 +4,6 @@ C:\Dev\Uplift\Uplist.DataAccess\obj\Debug\netcoreapp3.1\Uplift.DataAccess.csproj
 C:\Dev\Uplift\Uplist.DataAccess\obj\Debug\netcoreapp3.1\Uplift.DataAccess.AssemblyInfoInputs.cache
 C:\Dev\Uplift\Uplist.DataAccess\obj\Debug\netcoreapp3.1\Uplift.DataAccess.AssemblyInfo.cs
 C:\Dev\Uplift\Uplist.DataAccess\bin\Debug\netcoreapp3.1\Uplift.DataAccess.pdb
-C:\Dev\Uplift\Uplist.DataAccess\obj\Debug\netcoreapp3.1\Uplift.DataAccess.csproj.CoreCompileInputs.cache
 C:\Dev\Uplift\Uplist.DataAccess\obj\Debug\netcoreapp3.1\Uplift.DataAccess.dll
 C:\Dev\Uplift\Uplist.DataAccess\obj\Debug\netcoreapp3.1\Uplift.DataAccess.pdb
 C:\Dev\Uplift\Uplist.DataAccess\bin\Debug\netcoreapp3.1\Uplift.Models.dll
@@ -12,3 +11,4 @@ C:\Dev\Uplift\Uplist.DataAccess\bin\Debug\netcoreapp3.1\Uplift.Utility.dll
 C:\Dev\Uplift\Uplist.DataAccess\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
 C:\Dev\Uplift\Uplist.DataAccess\bin\Debug\netcoreapp3.1\Uplift.Utility.pdb
 C:\Dev\Uplift\Uplist.DataAccess\obj\Debug\netcoreapp3.1\Uplift.DataAccess.csproj.CopyComplete
+C:\Dev\Uplift\Uplist.DataAccess\obj\Debug\netcoreapp3.1\Uplift.DataAccess.csproj.CoreCompileInputs.cache

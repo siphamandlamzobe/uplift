@@ -12,6 +12,7 @@ namespace Uplift.DataAccess.Data.Repository
         public UnitOfWork(ApplicationDbContext db)
         {
             _db = db;
+            Category = new CategoryRepository(_db);
         }
 
         public ICategoryRepository Category { get; private set; }

@@ -443,3 +443,7 @@ C:\Dev\Uplift\Uplift\bin\Debug\netcoreapp3.1\Uplift.Utility.dll
 C:\Dev\Uplift\Uplift\bin\Debug\netcoreapp3.1\Uplift.DataAccess.pdb
 C:\Dev\Uplift\Uplift\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
 C:\Dev\Uplift\Uplift\bin\Debug\netcoreapp3.1\Uplift.Utility.pdb
+C:\Dev\Uplift\Uplift\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+C:\Dev\Uplift\Uplift\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Upsert.cshtml.g.cs
+C:\Dev\Uplift\Uplift\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CreateAndBackToListButton.cshtml.g.cs
+C:\Dev\Uplift\Uplift\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_EditAndBackToListButton.cshtml.g.cs
